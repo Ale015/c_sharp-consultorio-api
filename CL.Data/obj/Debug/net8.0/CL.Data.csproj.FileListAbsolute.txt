@@ -1,0 +1,11 @@
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Data\bin\Debug\net8.0\CL.Data.deps.json
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Data\bin\Debug\net8.0\CL.Data.dll
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Data\bin\Debug\net8.0\CL.Data.pdb
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Data\obj\Debug\net8.0\CL.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Data\obj\Debug\net8.0\CL.Data.AssemblyInfoInputs.cache
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Data\obj\Debug\net8.0\CL.Data.AssemblyInfo.cs
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Data\obj\Debug\net8.0\CL.Data.csproj.CoreCompileInputs.cache
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Data\obj\Debug\net8.0\CL.Data.dll
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Data\obj\Debug\net8.0\refint\CL.Data.dll
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Data\obj\Debug\net8.0\CL.Data.pdb
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Data\obj\Debug\net8.0\ref\CL.Data.dll
