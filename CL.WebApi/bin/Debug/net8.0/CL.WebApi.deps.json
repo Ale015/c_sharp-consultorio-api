@@ -8,6 +8,9 @@
     ".NETCoreApp,Version=v8.0": {
       "CL.WebApi/1.0.0": {
         "dependencies": {
+          "CL.Core": "1.0.0",
+          "CL.Data": "1.0.0",
+          "CL.Manager": "1.0.0",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.21.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
@@ -60,6 +63,30 @@
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
             "assemblyVersion": "6.6.2.0",
             "fileVersion": "6.6.2.401"
+          }
+        }
+      },
+      "CL.Core/1.0.0": {
+        "runtime": {
+          "CL.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CL.Data/1.0.0": {
+        "runtime": {
+          "CL.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CL.Manager/1.0.0": {
+        "runtime": {
+          "CL.Manager.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -119,6 +146,21 @@
       "sha512": "sha512-mBBb+/8Hm2Q3Wygag+hu2jj69tZW5psuv0vMRXY07Wy+Rrj40vRP8ZTbKBhs91r45/HXT4aY4z0iSBYx1h6JvA==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.6.2",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+    },
+    "CL.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CL.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CL.Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

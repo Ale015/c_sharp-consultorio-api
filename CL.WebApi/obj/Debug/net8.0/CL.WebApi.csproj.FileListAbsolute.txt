@@ -34,3 +34,10 @@ D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.WebApi\obj\Deb
 D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.WebApi\obj\Debug\net8.0\CL.WebApi.pdb
 D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.WebApi\obj\Debug\net8.0\CL.WebApi.genruntimeconfig.cache
 D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.WebApi\obj\Debug\net8.0\ref\CL.WebApi.dll
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.WebApi\obj\Debug\net8.0\CL.WebApi.sourcelink.json
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.WebApi\bin\Debug\net8.0\CL.Core.dll
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.WebApi\bin\Debug\net8.0\CL.Data.dll
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.WebApi\bin\Debug\net8.0\CL.Manager.dll
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.WebApi\bin\Debug\net8.0\CL.Core.pdb
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.WebApi\bin\Debug\net8.0\CL.Data.pdb
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.WebApi\bin\Debug\net8.0\CL.Manager.pdb

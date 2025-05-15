@@ -9,3 +9,4 @@ D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Manager\obj\De
 D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Manager\obj\Debug\net8.0\refint\CL.Manager.dll
 D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Manager\obj\Debug\net8.0\CL.Manager.pdb
 D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Manager\obj\Debug\net8.0\ref\CL.Manager.dll
+D:\3.HD.Programação\Projetos\c_sharp\c_sharp-consultorio-api\CL.Manager\obj\Debug\net8.0\CL.Manager.sourcelink.json
