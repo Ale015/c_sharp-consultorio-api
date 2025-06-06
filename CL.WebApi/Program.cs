@@ -1,5 +1,9 @@
 
 // Cria o builder da WebApplication para adicionar as dependências e configurar o pipeline de requisições.
+using CL.Data.Context;
+using FluentAssertions.Common;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 
@@ -7,6 +11,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Adição de serviços ao contêiner.
 // Adição de Controller I Endpoints I Swagger
 builder.Services.AddControllers();
+
+builder.Services.AddDbContext<ClContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ClCollection")));
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
